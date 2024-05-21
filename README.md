@@ -5,6 +5,8 @@
 - Front-End
 - Estudando Java, Asp.net, Mysql e Sql Server
 
+
+linguagens que eu já domino:
 <div style="display: inline_block"><br>
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
