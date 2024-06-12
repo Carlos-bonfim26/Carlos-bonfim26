@@ -3,7 +3,7 @@
 - Aluno da UAM em ADS 1°semestre
 - Aluno Proa 💙
 - Front-End
-- Estudando Java, Asp.net, Mysql e Sql Server
+- Estudando Java, Asp.net e Sql Server
 
 
 linguagens que eu já sei e estou estudando
