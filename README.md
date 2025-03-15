@@ -86,7 +86,14 @@ Olá, me chamo Carlos Bonfim, tenho 19 anos, estou cursando o Análise e Desenvo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="php" 
+    title="php"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
 <br/>
 <br/>
 
