@@ -2,9 +2,9 @@
 # Carlos Bonfim
 
 ## Desenvolvedor Front-End
-
+**Meu portifólio:** [carlosbonfim.com](https://portifolio-website-one.vercel.app/)
 ## Formações e Conquistas 
-* Análise e Desenvolvimento de Sistema Sistema na Anhembi Morumbi 3° Semestre
+* Análise e Desenvolvimento de Sistema Sistema na Anhembi Morumbi 4° Semestre
 * Desenvolvimento Web pelo IOS(Instituto da Oportunidade Social)
 * Desenvolvimento Full-Stack pelo Instituto Proa
 * Aluno Destaque Proa em 2024
@@ -51,7 +51,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-bonfim26&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-bonfim26&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 
 
