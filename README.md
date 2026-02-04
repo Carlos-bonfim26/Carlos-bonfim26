@@ -1,10 +1,13 @@
 
 # Carlos Bonfim
 
-## Desenvolvedor Front-End
-**Meu portifólio:** [carlosbonfim.com](https://carlosbonfim-git-master-carlos-bonfims-projects.vercel.app/)
+## Desenvolvedor Full-Stack
+**Meu portifólio:** [carlosbonfim.vercel.app](https://carlosbonfim.vercel.app/)
+
+## Cargo Atual
+Aprendiz em Observabilidade na XP INC
 ## Formações e Conquistas 
-* Análise e Desenvolvimento de Sistema Sistema na Anhembi Morumbi 4° Semestre
+* Análise e Desenvolvimento de Sistema Sistema na Anhembi Morumbi 5° Semestre
 * Desenvolvimento Web pelo IOS(Instituto da Oportunidade Social)
 * Desenvolvimento Full-Stack pelo Instituto Proa
 * Aluno Destaque Proa em 2024
@@ -21,7 +24,7 @@
 
 ## Front-End
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -32,6 +35,10 @@
 ![spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+## Observabilidade
+![dyna](https://img.shields.io/badge/Dynatrace-7B3FE4?style=for-the-badge&logo=dynatrace&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ## Outras
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
