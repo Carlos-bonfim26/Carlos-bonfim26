@@ -5,9 +5,9 @@
 **Meu portifólio:** [carlosbonfim.vercel.app](https://carlosbonfim.vercel.app/)
 
 ## Cargo Atual
-Aprendiz em Observabilidade na XP INC
+Analista em Observabilidade na XP INC
 ## Formações e Conquistas 
-* Análise e Desenvolvimento de Sistema Sistema na Anhembi Morumbi 5° Semestre
+* Análise e Desenvolvimento de Sistema Sistema na Anhembi Morumbi
 * Desenvolvimento Web pelo IOS(Instituto da Oportunidade Social)
 * Desenvolvimento Full-Stack pelo Instituto Proa
 * Aluno Destaque Proa em 2024
